@@ -1,4 +1,4 @@
-Full Stack Developer
+welcome to my GitHub!
 
 <!--
 **xFNighTMaRe/xFNighTMaRe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
