@@ -1,7 +1,6 @@
 # Hey :wave:!
 Thank you for visiting my page :smile:
 ---
-I'm an entrepreneur, technology enthusiast, and software engineer
 
 Feel free to explore my projects, utilize any resources that you find helpful, and feel free to ask to me if you have questions.
 If you see anything that can be improved and you would like to help me, you can write to me or open a pull request.
