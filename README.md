@@ -2,8 +2,8 @@
 Thank you for visiting my page :smile:
 ---
 
-Feel free to explore my projects, utilize any resources that you find helpful, and feel free to ask to me if you have questions.
-If you see anything that can be improved and you would like to help me, you can write to me or open a pull request.
+Feel free to explore my projects and utilize any resources that you find helpful. If you have any questions, don't hesitate to ask me.
+If you notice anything that can be improved and would like to help, you can either write to me or open a pull request.
 
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-Ventura_Rodríguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ventura-rodriguez/?locale=en_US/)](https://www.linkedin.com/in/ventura-rodriguez/?locale=en_US/) 
